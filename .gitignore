@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Experiment logs / outputs
+wandb/
+logs/
+*.log
+*.err
+*.out
+slurm-*.out
+
+# Large data & model artifacts (kept outside the repo; see docs/DATA.md)
+data/
+models/
+results/
+*.npy
+*.pt
+*.bin
+*.safetensors
+
+# OS / editor
+.DS_Store
+*.swp

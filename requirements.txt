@@ -1,0 +1,30 @@
+# Core analysis / statistics
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+tqdm
+pyarrow
+
+# Model training & evaluation (GPT-2 artificial LMs; Goldfish/multilingual eval)
+torch
+transformers
+datasets
+sentencepiece
+huggingface_hub
+accelerate
+wandb
+
+# Artificial-language data generation
+nltk
+spacy
+wuggy
+wordfreq
+uwotm8
+
+# Typological feature extraction
+lang2vec
+urielplus
+pycountry
