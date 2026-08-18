@@ -71,6 +71,8 @@ The paper is under review.
 Allan Hanbury and Terra Blevins supervised this project, with most of the
 supervision provided by Terra Blevins.
 
+Model training and data generation for artificial languages was built upon the code from [Examining the Inductive Bias of Neural Language Models with Artificial Languages](https://aclanthology.org/2021.acl-long.38/) (White & Cotterell, ACL-IJCNLP 2021)
+
 ## Contact
 
 If you have any questions, feel free to email me at
