@@ -1,8 +1,8 @@
 # Left-Branching Transformers Excel at Right-Branching Languages
 
-This repository contains the experiments for the paper "Left-Branching
+This repository contains the experiments for the paper [Left-Branching
 Transformers Excel at Right-Branching Languages: Data Shapes Word Order
-Preferences in Language Models".
+Preferences in Language Models](https://arxiv.org/abs/2608.15129).
 
 There are two sets of experiments:
 
@@ -52,15 +52,17 @@ python natural_languages/analysis/mixedeffects.py                   # M1-M9 mixe
 
 ## Citation
 
-The paper is under review; this entry will be updated on publication.
+The paper is under review.
 
 ```bibtex
-@unpublished{wordorderpreferences,
-  title  = {Left-Branching Transformers Excel at Right-Branching Languages:
-            Data Shapes Word Order Preferences in Language Models},
-  author = {Arzt, Varvara and Hanbury, Allan and Blevins, Terra},
-  year   = {2026},
-  note   = {Under review}
+@misc{arzt2026leftbranchingtransformersexcelrightbranching,
+      title={Left-Branching Transformers Excel at Right-Branching Languages: Data Shapes Word Order Preferences in Language Models}, 
+      author={Varvara Arzt and Allan Hanbury and Terra Blevins},
+      year={2026},
+      eprint={2608.15129},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2608.15129}, 
 }
 ```
 
