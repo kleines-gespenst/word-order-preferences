@@ -52,7 +52,7 @@ python natural_languages/analysis/mixedeffects.py                   # M1-M9 mixe
 
 ## Citation
 
-The paper is under review.
+The paper has been accepted to the EMNLP2026 (main conference).
 
 ```bibtex
 @misc{arzt2026leftbranchingtransformersexcelrightbranching,
