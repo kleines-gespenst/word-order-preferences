@@ -2,7 +2,7 @@
 
 This repository contains the experiments for the paper [Left-Branching
 Transformers Excel at Right-Branching Languages: Data Shapes Word Order
-Preferences in Language Models](https://arxiv.org/abs/2608.15129).
+Preferences in Language Models](https://aclanthology.org/2026.emnlp-main.2476).
 
 There are two sets of experiments:
 
