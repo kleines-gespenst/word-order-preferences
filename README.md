@@ -55,14 +55,22 @@ python natural_languages/analysis/mixedeffects.py                   # M1-M9 mixe
 The paper has been accepted to the EMNLP2026 (main conference).
 
 ```bibtex
-@misc{arzt2026leftbranchingtransformersexcelrightbranching,
-      title={Left-Branching Transformers Excel at Right-Branching Languages: Data Shapes Word Order Preferences in Language Models}, 
-      author={Varvara Arzt and Allan Hanbury and Terra Blevins},
-      year={2026},
-      eprint={2608.15129},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2608.15129}, 
+@inproceedings{arzt-etal-2026-left,
+    title = "Left-Branching Transformers Excel at Right-Branching Languages: Data Shapes Word Order Preferences in Language Models",
+    author = "Arzt, Varvara  and
+      Hanbury, Allan  and
+      Blevins, Terra",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.2476/",
+    pages = "56198--56219"
 }
 ```
 
